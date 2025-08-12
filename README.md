@@ -25,7 +25,6 @@
 - 🔭 Actualmente estoy trabajando en mi **Homelab** y proyectos de monitoreo con **Prometheus y Grafana**.
 - 🌱 Estoy aprendiendo a fondo sobre **Microsoft Sentinel** y preparándome para la certificación **AZ-104**.
 - 💬 Pregúntame sobre **redes, virtualización o seguridad en la nube**.
-- 📫 Cómo contactarme: **[tu-email@dominio.com](mailto:tu-email@dominio.com)**
 
 ---
 
