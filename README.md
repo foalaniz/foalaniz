@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=25&duration=4000&color=00FF88&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Fernando+Alaniz;SOC+Analyst+L1;Cybersecurity+Professional;Cloud+%26+Network+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=25&duration=4000&color=00FF88&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Fernando+Alaniz;SOC+Analyst;Cybersecurity+Professional;Cloud+%26+Network+Enthusiast" />
 </p>
 
 <p align="center">
@@ -50,7 +50,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foalaniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=00ff88"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foalaniz&layout=compact&langs_count=8&theme=dracula&border_color=00ff88"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foalaniz&theme=dark&border=00ff88&stroke=00ff88&ring=00ff88&fire=00ff88" />
